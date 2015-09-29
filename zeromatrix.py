@@ -1,5 +1,9 @@
 def zero_matrix(matrix):
-    """Given an NxM matrix, if a cell is zero, set entire row and column to zeroes.
+    """ This exercise was created by Hackbright, with code provided 
+    for this docstring, including the doctests, and code to execute the doctests.
+    I wrote all of the code in the zero_matrix function.
+
+    Given an NxM matrix, if a cell is zero, set entire row and column to zeroes.
 
     A matrix without zeroes doesn't change:
 
